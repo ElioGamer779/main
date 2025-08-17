@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>XD</title>
+        <style>
+            body {
+                background-color: #000;
+            }
+        </style>
+    </head>
+    <body>
+        <video src="video.mp4" width="1520" height="675" autoplay muted></video>
+    </body>
+</html>
